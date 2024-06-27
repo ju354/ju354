@@ -12,5 +12,5 @@ meu nome é Julya
   julyafigueiredo1007@gmail.com
 
 
-![descrição do GIF](ttps://media1.tenor.com/m/E3SNnvncEE0AAAAC/dance.gif)
+![](ttps://media1.tenor.com/m/E3SNnvncEE0AAAAC/dance.gif)
   
